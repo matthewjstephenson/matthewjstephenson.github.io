@@ -1,2 +1,4 @@
 # matthewjstephenson.github.io
-Personal Website
+Personal Website (prototype)
+
+https://lobste.rs/~mstephenson
