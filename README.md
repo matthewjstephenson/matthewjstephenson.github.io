@@ -1,6 +1,6 @@
 Personal Website (prototype)
 
-[skullbaselab.ucsf.edu](https://web.archive.org/web/20180301004144/http://skullbaselab.ucsf.edu/)
+[skullbaselab.ucsf.edu](https://web.archive.org/web/20180809032440/http://skullbaselab.ucsf.edu/)
 
 [https://scipost.org/contributor/8332](https://scipost.org/contributor/8332)
 
