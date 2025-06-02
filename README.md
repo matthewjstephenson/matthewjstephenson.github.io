@@ -12,4 +12,22 @@ Personal Website (prototype)
 
 <a href="https://doi.org/10.5281/zenodo.14920893"><img src="https://zenodo.org/badge/938472045.svg" alt="DOI"></a>
 
-SIGARCH Membership No.: 8249282
+SIGARCH Membership No.: 8249282z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Anonymous comment form](https://docs.google.com/forms/d/1HpgeVt8faZsA6nYU5rsFm5Ai6u46-Q0By9sZdZeXWrI/viewform?edit_requested=true)
